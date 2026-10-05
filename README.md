@@ -1,5 +1,3 @@
-Bilkul — **Alberto Clock** ke liye ek professional GitHub `README.md` bana deta hoon. Aap isay directly apne repository ke `README.md` mein paste kar sakte ho.
-
  Alberto Clock — GitHub README
 
 # ⏰ Alberto Clock
@@ -102,5 +100,5 @@ alberto-clock/
 
  **Alberto Clock**
 
- Made with ❤️ using HTML, CSS & JavaScript.
+
 
