@@ -104,4 +104,3 @@ alberto-clock/
 
  Made with ❤️ using HTML, CSS & JavaScript.
 
- Agar aap mujhe **project ka screenshot ya files/code** de do, main README ko aur professional bana sakta hoon—**actual features, live demo, badges, screenshots aur GitHub profile links** ke saath.
